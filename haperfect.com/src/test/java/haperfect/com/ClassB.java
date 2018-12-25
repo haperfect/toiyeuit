@@ -1,5 +1,5 @@
 package haperfect.com;
 
 public class ClassB {
-    // Class B 
+    // Class B 1
 }
