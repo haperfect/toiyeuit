@@ -2,6 +2,6 @@ package haperfect.com;
 
 public class Class1 {
   
-	// CBCBC
+	// CBCBC XXXXXXXXXXXXXX
 	// nguyen viet ha 
 }
