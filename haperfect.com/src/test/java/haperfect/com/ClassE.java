@@ -1,5 +1,5 @@
 package haperfect.com;
 
-public class ClassC {
+public class ClassE {
 
 }
