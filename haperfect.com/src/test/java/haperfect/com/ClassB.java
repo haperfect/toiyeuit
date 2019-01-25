@@ -1,5 +1,6 @@
 package haperfect.com;
 
 public class ClassB {
-    // Class B 1
+   
+	//Day la Ngoc xinh dep
 }
